@@ -7,3 +7,5 @@ Acesse o site para conferir a organização dos módulos e os links para os mate
 https://cristianofigo.github.io/profartes_fundamentos/
 
 Para estudantes vinculados a UFPB por favor enviem dúvidas e avaliações para o professor Guilherme Barbosa Schulze através do e-mail guilherme@ccta.ufpb.br
+
+Estudantes vinculados a UFBA devem enviar as avaliações através do AVA UFBA: https://ava.ufba.br/course/view.php?id=93973
